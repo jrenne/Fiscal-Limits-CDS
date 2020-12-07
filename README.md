@@ -34,5 +34,5 @@ The folders are as follows:
 
 C- Data
 
-The data are gathered in the “data” folder. There is one folder per country. Each country folder contains a specific readme file detailing the sources of the data. These folders contain Excel files that allow for the extraction of Datastream data.
+The data are gathered in the “data” folder. There is one folder per country. Each country folder contains a specific readme file detailing the sources of the data. These folders notably contain Excel files that allow for the extraction of Datastream data.
 

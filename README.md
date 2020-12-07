@@ -1,17 +1,12 @@
-# ==========================================
 # FISCAL LIMITS AND SOVEREIGN CREDIT SPREADS
-# ==========================================
 # Kevin PALLARA and Jean-Paul RENNE
 # This version: May 2020.
-# ==========================================
 
 
 These codes replicate the results of the paper entitled “Fiscal limits and sovereign credit spreads”, by Kevin Pallara and Jean-Paul Renne, see https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475425
 
 
-# ==========================================
 A- How to run the codes?
-# ==========================================
 
 The script “main.R” makes it possible to run the estimation and, further, to produce the paper’s charts as well as the table of parameter estimates.
 
@@ -25,9 +20,7 @@ In main, you can, in particular:
 - the number of rows on plots in figures, and whether figures include colours or not.
 
 
-# ==========================================
 B- Organisation of codes
-# ==========================================
 
 The folders are as follows:
 
@@ -39,9 +32,7 @@ The folders are as follows:
 - “outputs” contains output charts and tables, as well as the scripts producing these output files.
 
 
-# ==========================================
 C- Data
-# ==========================================
 
 The data are gathered in the “data” folder. There is one folder per country. Each country folder contains a specific readme file detailing the sources of the data. These folders contain Excel files that allow for the extraction of Datastream data.
 
